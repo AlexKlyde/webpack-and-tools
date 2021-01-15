@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "tools-lesson2-task2",
   "scripts": {
-    "build": "webpack -p",
-    "watch": "webpack -d --watch --devtool eval-source-maps"
+    "build:scripts": "webpack -p",
+    "watch:scripts": "webpack -d --watch --devtool eval-source-maps"
   },
   "keywords": [],
   "author": "",
